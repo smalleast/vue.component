@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type": "MENU",
+    "code": "SYSTEM",
+    "name": "系统设置",
+    "path": null,
+    "order": null,
+    "isLeaf": false,
+    "icon": "icon-cog"
+  },
+  {
+    "id": 5,
+    "type": "MENU",
+    "code": "DEBUG",
+    "name": "系统测试",
+    "path": "system/debug.html",
+    "order": null,
+    "isLeaf": true,
+    "icon": "icon-wrench"
+  }
+]

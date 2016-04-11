@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2,
+    "type": "MENU",
+    "code": "PAGE",
+    "name": "页面管理",
+    "path": "system/page.html",
+    "order": 1,
+    "isLeaf": true,
+    "icon": null
+  },
+  {
+    "id": 3,
+    "type": "MENU",
+    "code": "USER",
+    "name": "用户管理",
+    "path": "system/user.html",
+    "order": 2,
+    "isLeaf": true,
+    "icon": null
+  },
+  {
+    "id": 4,
+    "type": "MENU",
+    "code": "ROLE",
+    "name": "角色管理",
+    "path": "system/role.html",
+    "order": 3,
+    "isLeaf": true,
+    "icon": null
+  }
+]
